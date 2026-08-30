@@ -14,7 +14,7 @@ export function Hero() {
         alt="Dusk view of a Perth home with a dark standing seam metal roof"
         width={1920}
         height={1280}
-        className="slow-zoom absolute inset-0 size-full object-cover opacity-70"
+        className="slow-zoom absolute inset-0 size-full object-cover opacity-85"
       />
       {/* EMPTY background video slot #1 — add your own footage */}
       <VideoSlot
